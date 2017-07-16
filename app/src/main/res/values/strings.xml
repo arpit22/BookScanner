@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="thumb">Book thumbnail</string>
+    <string name="pre">Preview</string>
+    <string name="link">Web</string>
+    <string name="exhibits_feed"></string>
+</resources>
